@@ -1,13 +1,11 @@
 AutoGluon
+-------------------------
 
 Ieee fraud detection
 
-california_house_price
+California house pricing
 
-B)demonstrate autogluon colabs
-
-tabular classification/regression
+Tabular classification
 
 Multimodal tabular
 
-Yotube: https://youtube.com/playlist?list=PLmMNfv-hv1hYPniD0PapUEVbKSsXWX7dV&feature=shared
